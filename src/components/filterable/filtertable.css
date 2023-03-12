@@ -1,0 +1,7 @@
+.filtertable {
+    width: 400px;
+    height: 500px;
+    border: 1px solid rgb(221,221,19);
+    margin: auto;
+    padding: 5px; 
+}
